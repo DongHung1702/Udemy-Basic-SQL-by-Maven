@@ -16,12 +16,6 @@ We’ll start by using MySQL to explore **individual tables**, then discuss tabl
 
 ---
 
-## 📂 **Table of Contents**
-- [Database Structure](#a-database-can-contain-many-related-tables)
-- [Table Descriptions](#table-descriptions)
-- [How to Use](#how-to-use)
-
----
 
 ## 📝 Table Descriptions
 

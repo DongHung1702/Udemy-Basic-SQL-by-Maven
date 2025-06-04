@@ -1,4 +1,4 @@
-# A DATABASE CAN CONTAIN **MANY RELATED TABLES**
+# DATABASE
 
 <img src="MavenMoviesERD.png" alt="Database ER Diagram" width="80%" />
 

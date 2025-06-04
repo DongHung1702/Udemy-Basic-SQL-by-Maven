@@ -32,4 +32,4 @@ We’ll start by using MySQL to explore **individual tables**, then discuss tabl
 To create and populate the database, run the following SQL script:
 
 ```bash
-mysql -u your_username -p < create_mavenmovies.sql
+create_mavenmovies.sql

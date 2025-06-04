@@ -29,7 +29,7 @@ We’ll start by using MySQL to explore **individual tables**, then discuss tabl
 ---
 ## 🛠️ Setup the Database
 
-To create and populate the database, run the following SQL script:
+To create and populate the database, run the following file:
 
 ```bash
 create_mavenmovies.sql
